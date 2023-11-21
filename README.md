@@ -1,4 +1,4 @@
-![]([https://i.imgur.com/xG74tOh.png](https://i.pinimg.com/originals/41/90/13/419013521a41b3e998486a79e65e2ed0.jpg))
+[https://i.imgur.com/xG74tOh.png](https://i.pinimg.com/originals/41/90/13/419013521a41b3e998486a79e65e2ed0.jpg)]
 - 👋 Oi, me chamo Pedro Luis
 - 👀 Objetivo: Criar sistema para lojistas
 - 🌱 Estudando progrmação desde 09/23
