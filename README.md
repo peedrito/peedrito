@@ -1,4 +1,4 @@
-![](https://i.pinimg.com/originals/41/90/13/419013521a41b3e998486a79e65e2ed0.jpg)
+![](https://i.etsystatic.com/34466454/r/il/8e83e4/3765942466/il_794xN.3765942466_f90y.jpg)
 
 - 👋 Oi, me chamo Pedro Luis
 - 👀 Objetivo: Criar sistema para lojistas
