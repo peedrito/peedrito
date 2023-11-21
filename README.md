@@ -1,7 +1,5 @@
 ### My name is:
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ab66ff&lines=Pedro+Luis+C'+Lopes)](https://github.com/peedrito)
-
 - 🏆 | Objetivo: Criar sistema para lojistas
 - 📚 | Desenvolvendo desde 09/23
 - 💻 | Aux. Admistrativo
