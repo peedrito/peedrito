@@ -1,12 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Pedro+Luis+C+Lopesl)](https://github.com/peedrito)
+### My name is:
 
-- 👋 Oi, me chamo Pedro Luis
-- 👀 Objetivo: Criar sistema para lojistas
-- 🌱 Estudando progrmação desde 09/23
-- 💞️ Atualmente trabalhanco como aux. Admistrativo
-- 📫 pedroluiscostalopes@hotmail.com
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ab66ff&lines=Pedro+Luis+C'+Lopes)](https://github.com/peedrito)
 
-<!---
-peedrito/peedrito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🏆 | Objetivo: Criar sistema para lojistas
+- 📚 | Desenvolvendo desde 09/23
+- 💻 | Aux. Admistrativo
+- 📩 | E-mail: pedroluiscostalopes@hotmail.com
+
+<img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
