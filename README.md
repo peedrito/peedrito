@@ -1,4 +1,4 @@
-![](https://i.etsystatic.com/34466454/r/il/8e83e4/3765942466/il_794xN.3765942466_f90y.jpg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Pedro+Luis+C+Lopesl)](https://github.com/peedrito)
 
 - 👋 Oi, me chamo Pedro Luis
 - 👀 Objetivo: Criar sistema para lojistas
