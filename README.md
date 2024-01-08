@@ -6,4 +6,3 @@
 - 💻 | Aux. Admistrativo
 - 📩 | E-mail: pedroluiscostalopes@hotmail.com
 
-<img src="https://i.pinimg.com/originals/93/f0/4b/93f04b4b1103cc4e6410bb4f831acb6c.gif">
