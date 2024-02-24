@@ -1,3 +1,1 @@
-<img src="![image](https://github.com/peedrito/peedrito/assets/143858757/9f9424b0-1a9a-4627-aba3-8cffaf9dd5b9)
-">
-
+![image](https://github.com/peedrito/peedrito/assets/143858757/4f6838a1-1bd5-46d3-9f2c-fb09a6db9449)
