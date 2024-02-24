@@ -1,2 +1,3 @@
-<img src="https://cdn.discordapp.com/attachments/1077051581633151067/1198445818148028426/CEO_2.png?ex=65beeea5&is=65ac79a5&hm=635677996de32db65326413c44876c2b1ac028acf3724e93ef6e0b858fbed824&">
+<img src="![image](https://github.com/peedrito/peedrito/assets/143858757/9f9424b0-1a9a-4627-aba3-8cffaf9dd5b9)
+">
 
